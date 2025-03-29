@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/app/globals.css"],"sourcesContent":["body {\n  font-family: Arial, sans-serif;\n  margin: 0;\n  padding: 0;\n  background-color: #f9f9f9;\n}\n\n.container {\n  max-width: 600px;\n  margin: 2rem auto;\n  padding: 1rem;\n  background: white;\n  border-radius: 8px;\n  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n}\n\nh1 {\n  font-size: 1.5rem;\n  margin-bottom: 1rem;\n}\n\ninput[type=\"file\"] {\n  display: block;\n  margin: 1rem 0;\n}\n\npre {\n  background: #f4f4f4;\n  padding: 1rem;\n  border-radius: 6px;\n  font-size: 0.9rem;\n  overflow-x: auto;\n}\n"],"names":[],"mappings":"AAAA;;;;;;;AAOA;;;;;;;;;AASA;;;;;AAKA;;;;;AAKA"}},
+    {"offset": {"line": 34, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
